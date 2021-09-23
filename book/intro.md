@@ -1,5 +1,6 @@
 # Welcome to SnowEx Hackweek!
 
+<<<<<<< HEAD
 ```{note}
 **We will be hosting {{ hackweek }} as a virtual event during {{ dates }}.**
 ```
@@ -13,18 +14,16 @@ Modeling to Estimate Seasonal Snow and Snow Water Equivalent.
 Visit the [AGU submission page](https://www.agu.org/fall-meeting) for more information on submitting an abstract. 
 
 
+=======
+>>>>>>> upstream/main
 ![snow from iss](img/snow_from_iss.jpg)
 
-The purpose of {{ hackweek }} is to foster an environment of collaboration and sharing of [NASA SnowEx](https://snow.nasa.gov/campaigns/snowex) datasets across teams. We will teach each other about open source software during tutorials, and build new tools together during project work. Our vision is to create a space for networking, innovation and the sharing of ideas.
+```{note}
+SnowEx Hackweek 2021 was offered virtually July 12 - 16 with over 100 participants. The purpose of the event was to foster an environment of collaboration and sharing of [NASA SnowEx](https://snow.nasa.gov/campaigns/snowex) datasets across teams. 
+```
 
-In this website you will:
+📖 On this JupyterBook website you'll find 14 [tutorials](tutorials/index) covering topics from microstructure to satellite radar. All tutorials are Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience. Tutorial recordings are also available on this UW eScience [YouTube Playlist](https://www.youtube.com/playlist?list=PLA6PlfxWZPLSTUaS0uR8FMcNC2wqztwjJ)
 
-{fa}`check,text-success mr-1`: learn about our hackweek [Code of Conduct](norms/CoC) and our commitment to creating positive [learning communities](norms/community)
+👩‍💻 Teams worked collaboratively on 7 different projects focused on data cross-validation and software development. Read more about the projects and there results on our [projects page](projects/list_of_projects)
 
-{fa}`check,text-success mr-1`: access [preliminary lessons](preliminary/index) you will need to complete in advance of the hackweek
-
-{fa}`check,text-success mr-1`: learn more about the amazing [organizing team](team) who have designed this event
-
-{fa}`check,text-success mr-1`: review the hackweek [schedule](schedule)
-
-Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our publication describing the hackweek educational model {cite:p}`Huppenkothen2018`.
+💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our publication describing the hackweek educational model {cite:p}`Huppenkothen2018`.
